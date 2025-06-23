@@ -10,9 +10,9 @@ I’m building skills in:
 ---
 
 ## 📁 Structure
-/cpp/ → C++ mini programs (basics, simulation logic, vehicle models)
-/python/ → Image processing, OpenCV, ML experiments
-/simulink/ → Control system models, vehicle dynamics simulations
+- /cpp/ → C++ mini programs (basics, simulation logic, vehicle models)
+- /python/ → Image processing, OpenCV, ML experiments
+- /matlabsimulink/ → Control system models, vehicle dynamics simulations
 
 ---
 
